@@ -1,0 +1,45 @@
+
+body {
+    max-width: 70%;
+    margin: auto;
+}
+
+header {
+    text-align: center;
+}
+
+a {
+    color: red;
+}
+
+.p1 {
+    border: solid 1px black;
+}
+
+table {
+    border: solid 1px black;
+    border-radius: 10px;
+    border-collapse: collapse;
+}
+
+p {
+    margin: 40px;
+}
+
+.p3 {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.p5 {
+    display: none;
+}
+
+td {
+    border: solid 2px green;
+}
+
+tr { 
+    border: solid 1px red; 
+    border-style: dotted;
+}
